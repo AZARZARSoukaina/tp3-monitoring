@@ -4,7 +4,6 @@
 # NGINX_Filebeat
 ```bash
 
-# Afficher ses ip lisible facilement : ip a | awk '/inet / {split($2, a, "/"); print a[1]}'
 # Definition de l'IP d'ELK pour NGINX_Filebeat
 IP_ELK="172.26.35.23"
 
