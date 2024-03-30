@@ -1,8 +1,3 @@
-# ELK
-https://medium.com/@lopchannabeen138/deploying-elk-inside-docker-container-docker-compose-4a88682c7643
-# Creation docker nginx + filebeat
-https://medium.com/@knoldus/how-to-run-filebeat-in-a-docker-container-c5293942e070
-
 # ELK:
 'cd ELK && docker-compose up -d'
 
