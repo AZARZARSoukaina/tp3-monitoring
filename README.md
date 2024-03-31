@@ -5,7 +5,7 @@
 ```bash
 
 # Definition de l'IP d'ELK pour NGINX_Filebeat
-IP_ELK="172.26.35.23"
+IP_ELK="xxx.xx.xx.xx"
 
 # Se placer dans le bon repertoire :
 cd NGINX_Filebeat/
